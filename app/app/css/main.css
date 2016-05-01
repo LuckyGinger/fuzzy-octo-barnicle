@@ -1,0 +1,52 @@
+body {
+	background-image: url("../images/mountain.JPG");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.dropdown-menu li:hover .sub-menu {
+    visibility: visible;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.gingy_img {
+	width: 45px;
+	height: 35px;
+}
+
+.coming_soon {
+	text-align: center;
+}
+
+.content_div {
+	top: 70px;
+	padding-top: 20px;
+    background: #7E7563; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#7E7563, #fff); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#7E7563, #fff); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#7E7563, #fff); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#7E7563, #fff); /* Standard syntax */
+	bottom: 0;
+	min-height: 100%;
+	-webkit-box-shadow: 9px 10px 26px -5px rgba(64,64,64,1);
+	-moz-box-shadow: 9px 10px 26px -5px rgba(64,64,64,1);
+	box-shadow: 9px 10px 26px -5px rgba(64,64,64,1);
+}
+
+.img_center {
+	margin: 0 auto;
+}
+
+.about_me_ref {
+	text-align: center;
+	font-family: "Times New Roman";
+}
+
+.about_me_p {
+	text-indent: 50px;
+	text-align: justify;
+}
