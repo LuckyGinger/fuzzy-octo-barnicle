@@ -30,11 +30,11 @@
 
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner"  role="listbox">
-					<div class="item">
+					<div class="item active">
 						<img src="./images/hiking.JPG" class="img_center" alt="hiking">
 					</div>
 
-					<div class="item active">
+					<div class="item">
 						<img src="./images/bridge_jumping.jpg" class="img_center" alt="jumping">
 					</div>
 
