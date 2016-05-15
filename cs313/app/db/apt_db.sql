@@ -6,8 +6,8 @@ CREATE TABLE complex
 	gender_housing boolean NOT NULL,
 	average_rating decimal(4, 2) NOT NULL,
 	semester_price int NOT NULL,
-	id PRIMARY KEY (id),
-)
+	PRIMARY KEY (id)
+);
 
 CREATE TABLE user_review
 (
@@ -18,7 +18,7 @@ CREATE TABLE user_review
 	user_rating NOT NULL,
 	FOREIGN KEY (user_id) REFERENCES user(id) NOT NULL,
 	FOREIGN KEY (apt_id) REFERENCES complex(id) NOT NULL
-)
+);
 
 CREATE TABLE user
 (
@@ -27,4 +27,4 @@ CREATE TABLE user
 	last_name varchar(80) NOT NULL,
 	gender boolean NOT NULL,
 	PRIMARY KEY (id)
-)
+);
