@@ -5,8 +5,9 @@ CREATE TABLE user_review
 	apt_id int NOT NULL,
 	review varchar(1000),
 	user_rating NOT NULL,
-	FOREIGN KEY (user_id) REFERENCES user(id) NOT NULL,
-	FOREIGN KEY (apt_id) REFERENCES complex(id) NOT NULL
+	PRIMARY KEY (id),
+	FOREIGN KEY (user_id) REFERENCES user(id),
+	FOREIGN KEY (apt_id) REFERENCES complex(id)
 );
 
 CREATE TABLE complex
