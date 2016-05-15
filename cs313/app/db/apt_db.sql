@@ -1,3 +1,14 @@
+CREATE TABLE user_review
+(
+	id int NOT NULL AUTO_INCREMENT,
+	user_id int NOT NULL,
+	apt_id int NOT NULL,
+	review varchar(1000),
+	user_rating NOT NULL,
+	FOREIGN KEY (user_id) REFERENCES user(id) NOT NULL,
+	FOREIGN KEY (apt_id) REFERENCES complex(id) NOT NULL
+);
+
 CREATE TABLE complex
 (
 	id int NOT NULL AUTO_INCREMENT,
@@ -9,16 +20,6 @@ CREATE TABLE complex
 	PRIMARY KEY (id)
 );
 
-CREATE TABLE user_review
-(
-	id int NOT NULL AUTO_INCREMENT,
-	user_id int NOT NULL,
-	apt_id int NOT NULL,
-	review varchar(1000),
-	user_rating NOT NULL,
-	FOREIGN KEY (user_id) REFERENCES user(id) NOT NULL,
-	FOREIGN KEY (apt_id) REFERENCES complex(id) NOT NULL
-);
 
 CREATE TABLE user
 (
