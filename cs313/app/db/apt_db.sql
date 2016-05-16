@@ -4,7 +4,7 @@ CREATE TABLE user_review
 	user_id int NOT NULL,
 	apt_id int NOT NULL,
 	review varchar(1000),
-	user_rating NOT NULL,
+	user_rating decimal(4, 2) NOT NULL,
 	PRIMARY KEY (id),
 	FOREIGN KEY (user_id) REFERENCES user(id),
 	FOREIGN KEY (apt_id) REFERENCES complex(id)
