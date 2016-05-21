@@ -49,7 +49,7 @@
 							$totals[$i] += $sums[$i][$j];
 						}
 						for ($j = 0; $j < sizeof($sums[$i]); $j++) {
-							$sums[$i][$j] = $sums[$i][$j] / $totals[$i] * 10;
+							$sums[$i][$j] = $sums[$i][$j] / $totals[$i] * 100;
 						}
 					}
 

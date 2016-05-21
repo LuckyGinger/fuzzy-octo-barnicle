@@ -1,0 +1,78 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/cs313/app/index.php">Thom's Muffins</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a class="assign" href="/cs313/app/assign.php">Assignments</span></a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a onclick="sign_up()"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a onclick="login()"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+
+        <script type="text/javascript">
+          var sign_up = function() {
+            if ($("#login_floater").is(':visible')) {
+              $("#login_floater").hide()
+            }
+            $("#signup_floater").show()
+          }
+
+          var login = function() {
+            if ($("#signup_floater").is(':visible')) {
+              $("#signup_floater").hide()
+            }
+            $("#login_floater").show()
+          }
+
+        </script>
+
+
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div id="signup_floater">
+  <h1>Sign Up</h1>
+  <form>
+    <table class="table">
+      <tbody>
+        <tr>
+          <th>First Name:</th>
+          <th><input type="text" id="first_name" name="first_name"></th>
+        </tr>
+        <tr>
+          <th>Last Name:</th>
+          <th><input type="text" id="last_name" name="last_name"></th>
+        </tr>
+        <tr>
+          <th>Gender:</th>
+          <th><input type="radio" id="male" name="gender"></th>
+        </tr>
+
+      </tbody>
+    </table>
+
+  </form>
+</div>
+<script type="text/javascript">$("#signup_floater").hide()</script>
+
+<div id="login_floater">
+  <h1>Login</h1>
+
+</div>
+<script type="text/javascript">$("#login_floater").hide()</script>
+
+
+
+
+
+

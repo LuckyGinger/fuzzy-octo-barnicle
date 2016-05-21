@@ -1,0 +1,1150 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sess",
+				"session_start〔function〕"
+			],
+			[
+				"dept",
+				"department"
+			],
+			[
+				"di",
+				"discipline"
+			],
+			[
+				"toolba",
+				"toolbarGroups"
+			],
+			[
+				"img",
+				"img_center"
+			],
+			[
+				"launch",
+				"launchMapOrPhone	(main_ios.js)"
+			],
+			[
+				"opening",
+				"openingscreen	(frugler_common.js)"
+			],
+			[
+				"frugleli",
+				"fruglelist_title"
+			],
+			[
+				"deals",
+				"dealsdrop"
+			],
+			[
+				"screen",
+				"screenname"
+			],
+			[
+				"target",
+				"target_history"
+			],
+			[
+				"user",
+				"userhistory"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"Key",
+				"KeyboardInterrupt〔class〕"
+			],
+			[
+				"game",
+				"gameStatus"
+			],
+			[
+				"server",
+				"serverResponse"
+			],
+			[
+				"player",
+				"playerOne"
+			],
+			[
+				"readFrom",
+				"readFromPlayer1"
+			],
+			[
+				"confi",
+				"confirmMsgReceived"
+			],
+			[
+				"pla",
+				"playerOne"
+			],
+			[
+				"writeTO",
+				"writeToPlayer1"
+			],
+			[
+				"wr",
+				"writeToServer"
+			],
+			[
+				"socket",
+				"socketFD"
+			],
+			[
+				"play",
+				"playerTwo"
+			],
+			[
+				"inner",
+				"innerHtml"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"swip",
+				"swipeleft"
+			],
+			[
+				"header",
+				"header_home	(startup.js)"
+			],
+			[
+				"fast",
+				"fastClick"
+			],
+			[
+				"buttonbl",
+				"button_block	(appcore.css)"
+			],
+			[
+				"infobo",
+				"infobox_busname"
+			],
+			[
+				"user_fru",
+				"user_frugleID"
+			],
+			[
+				"frugle_c",
+				"frugle_choice	(appcore.css)"
+			],
+			[
+				"fruglel",
+				"fruglelist_div"
+			],
+			[
+				"frugler_content",
+				"frugler_content_dropdown"
+			],
+			[
+				"open",
+				"openingscreen"
+			],
+			[
+				"sign",
+				"signupscreen"
+			],
+			[
+				"s",
+				"script>$(\"#loginscreen"
+			],
+			[
+				"signu",
+				"signupemail"
+			],
+			[
+				"sis",
+				"signupscreen	(startup.js)"
+			],
+			[
+				"RE",
+				"RESOURCE_URL_CSS"
+			],
+			[
+				"assert",
+				"assertNull"
+			],
+			[
+				"debu",
+				"debug_to_console"
+			],
+			[
+				"display",
+				"displayGameBoard"
+			],
+			[
+				"not",
+				"not_started	(module.scss)"
+			],
+			[
+				"completion",
+				"completionFlag"
+			],
+			[
+				"INV",
+				"INVALID_CK	(gbbControl.js)"
+			],
+			[
+				"module",
+				"moduleErrorDisplay"
+			],
+			[
+				"gbb",
+				"gbbmodel	(gbbModel.js)"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"userModu",
+				"userModuleChecker"
+			],
+			[
+				"child",
+				"child_added"
+			],
+			[
+				"star",
+				"startedModule"
+			],
+			[
+				"next",
+				"nextModule"
+			],
+			[
+				"data-module-",
+				"data-module-questionId"
+			],
+			[
+				"userAnswer",
+				"userAnswerText"
+			],
+			[
+				"que",
+				"questionId"
+			],
+			[
+				"focus",
+				"focusParent"
+			],
+			[
+				"reflectionStor",
+				"reflectionStoreRef"
+			],
+			[
+				"order",
+				"orderByKey"
+			],
+			[
+				"question",
+				"questionAnswer"
+			],
+			[
+				"onC",
+				"onClickHandlerRadios"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"onc",
+				"onClickHandler	(gbbView.js)"
+			],
+			[
+				"onblur",
+				"onblur=\"gbbView	(gbbView.js)"
+			],
+			[
+				"onclick",
+				"onClickHandler"
+			],
+			[
+				"LogIN",
+				"logInEmail"
+			],
+			[
+				"clear",
+				"clearAllLogInFeilds"
+			],
+			[
+				"clea",
+				"clearAllRegisterFeilds"
+			],
+			[
+				"can",
+				"cancelEventVideo"
+			],
+			[
+				"moudle",
+				"moduleVideo"
+			],
+			[
+				"new",
+				"newQuestion"
+			],
+			[
+				"Wrong",
+				"wrongAnswer1"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"quesion",
+				"questionText"
+			],
+			[
+				"comp",
+				"completionTimeEstimate"
+			],
+			[
+				"ques",
+				"questionId"
+			],
+			[
+				"video",
+				"videoSrcHandler"
+			],
+			[
+				"modul",
+				"moduleId"
+			],
+			[
+				"failu",
+				"failureCallback"
+			],
+			[
+				"getModu",
+				"getModuleKeys	(gbbControl.js)"
+			],
+			[
+				"fai",
+				"failureCallback"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"form",
+				"formErrors"
+			],
+			[
+				"company",
+				"companyKey"
+			],
+			[
+				"dle",
+				"deleteUserFromCompanyRef"
+			],
+			[
+				"lo",
+				"logInUser	(gbbControl.js)"
+			],
+			[
+				"snap",
+				"snapshot"
+			],
+			[
+				"eac",
+				"eachUserSnapshot"
+			],
+			[
+				"user4",
+				"user4Password"
+			],
+			[
+				"nullU",
+				"nullUserPassword"
+			],
+			[
+				"userP",
+				"user3Password"
+			],
+			[
+				"success",
+				"successCall"
+			],
+			[
+				"sucess",
+				"successCall"
+			],
+			[
+				"failur",
+				"failureCall"
+			],
+			[
+				"succ",
+				"successCall"
+			],
+			[
+				"compan",
+				"companyKey"
+			],
+			[
+				"glo",
+				"globalId"
+			],
+			[
+				"g",
+				"gbbModel"
+			],
+			[
+				"quest",
+				"questionId"
+			],
+			[
+				"data",
+				"databaseAnswer"
+			],
+			[
+				"fire",
+				"firebase"
+			],
+			[
+				"userId",
+				"userIdQuestionOnly"
+			],
+			[
+				"qu",
+				"questionId"
+			],
+			[
+				"modu",
+				"moduleId"
+			],
+			[
+				"comple",
+				"completionFlag"
+			],
+			[
+				"examp",
+				"exampleModule"
+			],
+			[
+				"example",
+				"exampleQuestion1	(getAnswer_test.js)"
+			],
+			[
+				"es",
+				"estimatedCompletionTime"
+			],
+			[
+				"NO",
+				"NOT_STARTED	(getModuleContent_test.js)"
+			],
+			[
+				"com",
+				"completionFlag"
+			],
+			[
+				"getMo",
+				"getModuleCall"
+			],
+			[
+				"getmo",
+				"getModuleCall"
+			],
+			[
+				"suc",
+				"successCallback"
+			],
+			[
+				"vid",
+				"videoPath"
+			],
+			[
+				"getM",
+				"getModuleStarted_dummy"
+			],
+			[
+				"C",
+				"CARROTCOLOR"
+			],
+			[
+				"Ca",
+				"CARROTCOLOR"
+			],
+			[
+				"selec",
+				"selectedRadioButton"
+			],
+			[
+				"q",
+				"questionId"
+			],
+			[
+				"view",
+				"viewProgress"
+			],
+			[
+				"successCall",
+				"successCallback"
+			],
+			[
+				"questions",
+				"questionAnswer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/assignments/phpSurvey/resultsPage.php",
+			"settings":
+			{
+				"buffer_size": 4024,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"gitgutter",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"ssJava",
+				"Set Syntax: Java"
+			],
+			[
+				"rsub",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"Prv",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"def",
+				"Preferences: Settings - Default"
+			],
+			[
+				"sublimelthem",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/cs313",
+		"/C/xampp/htdocs/cs313/app",
+		"/C/xampp/htdocs/cs313/app/assignments",
+		"/C/xampp/htdocs/cs313/app/assignments/phpSurvey"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/f5admin/services/sec.php",
+		"/C/xampp/htdocs/f5admin/services/adam.php",
+		"/D/Thom/Projects/web2py/applications/rcwc/static/ckeditor/config.js",
+		"/D/Thom/Desktop/sums.py",
+		"/D/Thom/Desktop/cs306/2_homework.org",
+		"/D/Thom/Desktop/New Text Document (2).txt",
+		"/D/Thom/Projects/web2py/applications/rcwc/static/ckeditor/config_min.js",
+		"/C/xampp/htdocs/cs313/funwithmessages/index.php",
+		"/D/Thom/Desktop/cs306/thirdAlg_exp1p2.txt",
+		"/D/Thom/Desktop/cs306/secondAlg_exp1p2.txt",
+		"/D/Thom/Desktop/cs306/firstAlg_exp1p2.txt",
+		"/D/Thom/Desktop/cs306/mysteriousness_Thom_with_Neff_edits.org",
+		"/D/Thom/Desktop/cs306/mysteriousness_Thom_Neff.org",
+		"/D/Thom/Desktop/cs306/mysteriousness_Thom.org",
+		"/D/Thom/Desktop/pandora.html",
+		"/C/xampp/htdocs/f5admin/vcore/corevars.php",
+		"/C/xampp/htdocs/f5admin/common/js/frugler_common.js",
+		"/C/xampp/htdocs/f5admin/vcore/client/wrapper_app.php",
+		"/C/xampp/htdocs/f5admin/admin/js/frugler_admin.min.js",
+		"/C/xampp/htdocs/f5admin/app/js/frugler.min.js",
+		"/C/xampp/htdocs/f5admin/vcore/client/wrapper_admin.php",
+		"/C/xampp/htdocs/f5admin/cache.manifest",
+		"/C/xampp/htdocs/f5admin/app/js/data_layer.js",
+		"/C/xampp/htdocs/f5admin/app/js/fundy_call_map_replacement.js",
+		"/C/xampp/htdocs/f5admin/app/images/icons/specials.png",
+		"/C/xampp/htdocs/cs313/app/assign.php",
+		"/C/xampp/htdocs/cs313/core/homepage.php",
+		"/C/xampp/htdocs/cs313/app/index.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/cs313/index.php",
+		"/C/Users/Thom/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Thom/Desktop/1_homework.org",
+		"/C/xampp/htdocs/f5admin/app/js/ui_layer.js",
+		"/C/xampp/htdocs/f5admin/app/js/main_ios.js",
+		"/C/xampp/htdocs/f5admin/app/encoder.php",
+		"/D/Thom/Projects/web2py/applications/rcwc/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_user.table",
+		"/D/Thom/Projects/web2py/applications/rcwc/databases/206b9224635969bcbd1d5c8bd26e2ab0_scheduler_run.table",
+		"/D/Thom/Projects/web2py/applications/rcwc/databases/2016-04-22.db.tar.gz",
+		"/D/Thom/Desktop/New Text Document.txt",
+		"/D/Thom/Desktop/JavaScriptCommunication.java",
+		"/D/Thom/Desktop/Sh!t_to_due.txt",
+		"/D/Thom/Desktop/settingsForSublime.txt",
+		"/C/xampp/htdocs/f5admin/admin/js/appcore_admin.js",
+		"/C/xampp/htdocs/f5admin/app/js/inter_ios.js",
+		"/C/xampp/htdocs/f5admin/admin/js/startup_admin.js",
+		"/C/xampp/htdocs/f5admin/admin/js/uilayer_admin.js",
+		"/C/xampp/htdocs/f5admin/app/js/startup.js",
+		"/D/Thom/Desktop/CS 460/Lab5/pythonWebServer.py",
+		"/C/xampp/htdocs/f5admin/common/js/fastclick.js",
+		"/C/xampp/htdocs/f5admin/app/js/appcore.js",
+		"/C/xampp/htdocs/f5admin/app/css/appcore.css",
+		"/C/xampp/htdocs/f5admin/common/css/frugler_common.css",
+		"/C/xampp/htdocs/f5admin/trash/wrapper_app.php",
+		"/D/Thom/Desktop/CS 460/Lab5/NickServer/WebServer.py",
+		"/D/Thom/Desktop/CS 460/Lab5/BrentWebServer/brentLab5.py",
+		"/C/xampp/htdocs/f5admin/vcore/data/dbcore.php",
+		"/C/xampp/htdocs/f5admin/services/vap.php",
+		"/C/xampp/htdocs/f5admin/vcore/communication/comcore.php",
+		"/C/xampp/htdocs/f5admin/admin/js/datalayer_admin.js",
+		"/C/xampp/htdocs/f5admin/vcore/sec/session.php",
+		"/C/xampp/htdocs/f5admin/vcore/util/inputparser.php",
+		"/D/Thom/Desktop/thing.txt",
+		"/D/Thom/Desktop/CS 460/Lab4/rpsServer1.cpp",
+		"/D/Thom/Desktop/CS 460/Lab4/rpsServer.cpp",
+		"/D/Thom/Desktop/CS 460/Lab4/rpsClient1.cpp",
+		"/D/Thom/Desktop/CS 460/Lab4/rpsClient.cpp",
+		"/C/Users/Thom/AppData/Local/Temp/scp08861/home/all12061/cs460/lab4/rpsClient1.cpp",
+		"/C/Users/Thom/AppData/Local/Temp/scp08961/home/all12061/cs460/lab4/rpsServer1.cpp",
+		"/L/cs460/lab3/lab3T2/rpsServer.cpp",
+		"/L/cs460/lab3/Lab3Review/nicholasRecht/client.cpp",
+		"/L/cs460/lab3/lab3T2/rpsClient.cpp",
+		"/L/cs460/lab3/Lab3Review/nicholasRecht/server.cpp",
+		"/L/cs460/lab3/rpsClient.cpp",
+		"/L/cs460/lab3/rpsServer.cpp",
+		"/D/Thom/Desktop/WorkTemp/main.js",
+		"/D/Thom/Desktop/WorkTemp/SwiftlyMessageHandler.swift",
+		"/D/Thom/Desktop/WorkTemp/index.html",
+		"/L/cs460/lab3/Lab3Review/shane/client.c",
+		"/L/cs460/lab3/Lab3Review/shane/server.c",
+		"/L/cs460/lab3/Lab3Review/brentonKrieger/lab3S.cpp",
+		"/L/cs460/lab3/Lab3Review/brentonKrieger/lab3C.cpp",
+		"/D/Thom/Desktop/client.cpp",
+		"/D/Thom/Desktop/server.cpp",
+		"/C/Users/Thom/AppData/Local/ExpanDrive/log.txt",
+		"/D/Thom/Downloads/WebServer (2).java",
+		"/D/Thom/Desktop/CS 460/Lab2/MailClient.java",
+		"/D/Thom/Downloads/MailClient (1).java",
+		"/C/Users/Thom/.v8flags.3.28.71.19.Thom.json",
+		"/D/Thom/Downloads/MailClient.java",
+		"/D/Thom/Downloads/WebServer (1).java",
+		"/D/Thom/Downloads/WebServer.java",
+		"/D/Thom/Desktop/CS 460/WebServer.java",
+		"/C/xampp/htdocs/f5admin/admin/index.php",
+		"/C/xampp/htdocs/f5admin/stripetest.php",
+		"/C/xampp/htdocs/f5admin/services/stripe/lib/Account.php",
+		"/C/xampp/htdocs/f5admin/services/stripe/lib/ApiResource.php",
+		"/C/xampp/htdocs/f5admin/services/stripe/init.php",
+		"/D/Thom/Desktop/main.js",
+		"/C/xampp/htdocs/f5admin/vcore/debug/applog.txt",
+		"/D/Thom/Documents/BYUi info.txt",
+		"/C/xampp/htdocs/f5admin/app/cruncher.php",
+		"/C/xampp/htdocs/f5admin/common/js/json_parse.js",
+		"/D/Thom/Desktop/chemPW.txt",
+		"/C/xampp/htdocs/f5admin/.gitignore",
+		"/D/Thom/Desktop/TestInAppPurchase/src/com/example/testinapppurchase/MainActivity.java",
+		"/C/xampp/htdocs/f5admin/common/images/spinny.gif",
+		"/C/xampp/htdocs/f5admin/vcore/debug/logger.php",
+		"/C/xampp/htdocs/f5admin/dbback/frugler_db_30Oct2015.sql",
+		"/C/xampp/htdocs/f5admin/notes_Thom.txt",
+		"/D/Thom/Projects/gbb/app/scripts/gbbControl.js",
+		"/D/Thom/Documents/WebSites/frugler/fruglerLoginData.txt",
+		"/C/Users/Thom/AppData/Local/Temp/7zO942.tmp/build.txt",
+		"/C/Users/Thom/Downloads/PopcornTime/Ted.2.2015.720p.WEBRip.x264.AAC-ETRG/Torrent Downloaded From ExtraTorrent.cc.txt",
+		"/E/text.txt",
+		"/C/xampp/htdocs/f5admin/common/js/jquery.min.js",
+		"/C/xampp/htdocs/f5admin/dbback/frugler_db_27June2015.sql",
+		"/C/xampp/htdocs/f5admin/admin/css/admincore.css",
+		"/C/xampp/htdocs/f5admin/common/css/bootstrap.min.css",
+		"/D/Thom/Projects/gbb/app/styles/module.scss",
+		"/D/Thom/Projects/gbb/app/index.html",
+		"/D/Thom/Projects/gbb/app/scripts/gbbView.js",
+		"/C/xampp/htdocs/f5admin/cachetest.manifesttest",
+		"/D/Thom/Projects/instructional_node/package.json",
+		"/C/xampp/htdocs/f5admin/vcore/client/sign-up.php",
+		"/C/xampp/htdocs/f5admin/app/js/main.js",
+		"/C/xampp/htdocs/f5admin/vcore/client/sign-in.php",
+		"/C/xampp/htdocs/f5admin/tests/SessionTest.php",
+		"/D/Thom/Projects/New folder/package.json"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"comment",
+			"potatos",
+			"h2",
+			"[]",
+			"churros_q",
+			"disagree",
+			"_q",
+			"churros_q",
+			">\n",
+			"li",
+			"fave_color",
+			"Other",
+			"Purple",
+			"Blue",
+			"Green",
+			"Red",
+			"Purple",
+			"checkbox",
+			"places",
+			"item",
+			"abstracts_department_id",
+			"visible_input_department_id",
+			"field",
+			"attributes",
+			"self",
+			"db.abstracts.department_id.widget",
+			"AutocompleteReferenceWidget",
+			"hidden_ids",
+			"hidden_id",
+			"_autocomplete_departments_name_auto",
+			"ui-id-1",
+			"ui-menu-item",
+			"value",
+			"autocomplete_department_id",
+			"none",
+			"reference_id",
+			"visible_input_department_id",
+			"_autocomplete_departments_name_auto",
+			"//",
+			"Update the possible options",
+			"rubric_id",
+			"controls",
+			"abstracts_rubric_id_hide",
+			"abstracts_rubric_id_hide.",
+			"autocomplete",
+			"Abtact",
+			"ckeditor",
+			"test",
+			"webdictionary",
+			"txt",
+			"action",
+			"pause",
+			"pauseB",
+			"pauseButton",
+			"Queue",
+			"Stack",
+			"0",
+			"20",
+			"0",
+			" ",
+			"if",
+			"wordArray",
+			"int",
+			"=",
+			" =",
+			"V",
+			"U",
+			"T",
+			"S",
+			"R",
+			"P",
+			"O",
+			"N",
+			"M",
+			"L",
+			"I",
+			"G",
+			"E",
+			"A",
+			"removeCookie",
+			"createCookie",
+			"readCookie",
+			"docroot =",
+			"f5admin",
+			"Real",
+			"Housing",
+			"housing",
+			"deals-heading-title",
+			"list-heading-title",
+			"categories[n].name",
+			"catimg_wrapper",
+			"images",
+			"images/icons/specials.png",
+			"catimg_wrapper",
+			"specials.png",
+			".png",
+			"specials",
+			"specials.png",
+			"gender",
+			"female",
+			"places",
+			"paris",
+			"la",
+			"provo",
+			"females",
+			"id",
+			"rexburg",
+			"radio",
+			"input",
+			"\"></",
+			"gender",
+			"First",
+			"cs313",
+			"nope",
+			"href",
+			"class=\"lulz\"",
+			"lulz",
+			"class=\"lulz\"",
+			"46dfec",
+			"yellow",
+			"red",
+			"./",
+			"..",
+			"Flower",
+			"Content",
+			"sm",
+			">\n",
+			"gingy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/assignments/phpSurvey/resultsPage.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1236,
+								1236
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 435.0
+	},
+	"pinned_build_system": "",
+	"project": "cs313.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"get",
+				"test\\getModule_test.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\f5admin\\f5admin.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

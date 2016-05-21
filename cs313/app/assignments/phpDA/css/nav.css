@@ -1,0 +1,17 @@
+#login_floater, #signup_floater {
+    position:fixed;
+    width:500px;
+    height:600px;
+    background-color: pink;
+    margin:-300px auto auto -250px;
+    top:50%;
+    left:50%;
+    text-align:center;
+    z-index: 100;
+}
+
+.user_review {
+    background-color: #16ae8b;
+    margin: 10px;
+    padding: 10px;
+}
