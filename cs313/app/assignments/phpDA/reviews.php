@@ -1,7 +1,8 @@
 <?php
+    session_start();
 
     require_once('./db_user1.php');
-
+    $db = connectToDb();
 
     $apt_id = htmlspecialchars($_GET['apt_id']);
     $name = $description = $gender_housing = $average_rating = $semester_price = 0;
@@ -27,7 +28,7 @@
         }
 
         // TODO: Somehow fix this two queries garbage
-        $results = $db->query("SELECT user_review.review, user_review.user_rating, user.first_name, user.last_name FROM user_review JOIN user ON user_review.user_id = user.id WHERE apt_id=$apt_id");
+        $results = $db->query("SELECT user_review.review, user_review.user_rating, user_review.time_stamp, user.user_name FROM user_review JOIN user ON user_review.user_id = user.id WHERE apt_id=$apt_id");
         $reviews = $results->fetchAll(PDO::FETCH_ASSOC);
 
         // echo json_encode($reviews["review"]);
@@ -52,7 +53,7 @@
     <title>.::HotThomics::.</title>
 </head>
 <body>
-    <?php include "./ht_nav.html" ?>
+    <?php include "./ht_nav.php" ?>
     <div class="row">
     <div class="col-md-1 col-sm-2"></div>
     <div class="content_div col-md-7 col-sm-8">
@@ -77,15 +78,45 @@
             echo "</div>";
             echo "<br />";
             echo "<br />";
+        ?>
+        <form action="comment.php?apt_id=<?php echo $apt_id ?>" method="POST">
+            <h4>Leave a Review:</h4>
+            <table class="table hotthomic_rating">
+                <tbody>
+                    <tr>
+                        <th><label>Your Hot Thomic Rating for <?php echo $apt_name ?>: </label></th>
+                        <th><label>0</label> <input type="radio" name="new_user_rating" value="0"></input></th>
+                        <th><label>1</label> <input type="radio" name="new_user_rating" value="1"></input></th>
+                        <th><label>2</label> <input type="radio" name="new_user_rating" value="2"></input></th>
+                        <th><label>3</label> <input type="radio" name="new_user_rating" value="3"></input></th>
+                        <th><label>4</label> <input type="radio" name="new_user_rating" value="4"></input></th>
+                        <th><label>5</label> <input type="radio" name="new_user_rating" value="5"></input></th>
+                        <th><label>6</label> <input type="radio" name="new_user_rating" value="6"></input></th>
+                        <th><label>7</label> <input type="radio" name="new_user_rating" value="7"></input></th>
+                        <th><label>8</label> <input type="radio" name="new_user_rating" value="8"></input></th>
+                        <th><label>9</label> <input type="radio" name="new_user_rating" value="9"></input></th>
+                        <th><label>10</label> <input type="radio" name="new_user_rating" value="10"></input></th>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="form-group">
+                <label for="comment">Comment (1000 characters max):</label>
+                <textarea class="form-control" rows="5" id="new_review" name="new_review"></textarea>
+                <?php if(isset($_SESSION['user_name'])): ?>
+                    <button type="submit" id="sign_up_submit" class="btn btn-primary btn-lg btn-block">Post</button>
+                <?php else: ?>
+                    <button type="submit" id="sign_up_submit" class="btn btn-primary btn-lg btn-block" disabled>Post</button>
+                <?php endif; ?>
+            </div>
+        </form>
+        <?php
             echo "<h3>Reviews</h3><br />";
             echo "<br />";
-
-
             echo "<div class='row'>";
             foreach ($reviews as $value) {
                 echo "<div class='user_review col-md-6'>";
-                echo "<label class='pull-left'>" . $value["first_name"] . " " . $value["last_name"] . "</label>";
-                echo "<div class='pull-right'>" . $value["first_name"]. "'s Hot Thomic Rating: <b>" . $value["user_rating"] . "</b></div><br />";
+                echo "<label class='pull-left'>" . $value["user_name"] . "</label> <p>_at" . $value['time_stamp'] . "</p>";
+                echo "<div class='pull-right'>" . $value["user_name"]. "'s Hot Thomic Rating: <b>" . $value["user_rating"] . "</b></div><br />";
                 echo "<br />";
                 echo "<div class='pull-left'>" . $value["review"] . "</div>";
                 echo "</div>";

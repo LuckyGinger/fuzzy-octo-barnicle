@@ -1,7 +1,7 @@
 <?php
-
+    session_start();
     require_once('./db_user1.php');
-
+    $db = connectToDb();
 
 
 ?>
@@ -18,7 +18,7 @@
     <title>.::HotThomics::.</title>
 </head>
 <body>
-    <?php include "./ht_nav.html" ?>
+    <?php include "./ht_nav.php" ?>
     <div class="row">
     <div class="col-md-1 col-sm-2"></div>
     <div class="content_div col-md-7 col-sm-8">
