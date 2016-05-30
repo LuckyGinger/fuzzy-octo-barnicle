@@ -30,7 +30,7 @@ CREATE TABLE user_review
 	apt_id int NOT NULL,
 	review varchar(1000),
 	user_rating decimal(4, 2) NOT NULL,
-        time_stamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+        time_stamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 	FOREIGN KEY (user_id) REFERENCES user(id),
 	FOREIGN KEY (apt_id) REFERENCES complex(id)
 );
