@@ -21,6 +21,7 @@
 
 			<button type="button" class="btn btn-primary btn-lg btn-block" onclick="parent.location='/cs313/app/assignments/phpSurvey/survey.php'">1. PHP Survey</button>
 			<button type="button" class="btn btn-primary btn-lg btn-block" onclick="parent.location='/cs313/app/assignments/phpDA/hotthomics.php'">2. PHP Database Access</button>
+			<button type="button" class="btn btn-primary btn-lg btn-block" onclick="parent.location='/cs313/app/assignments/hotthomic/hotthomics.php'">3. HotThomics</button>
 			<!-- <img src="./images/t_rex.gif" class="img-responsive center-block" alt="t-rex"> -->
 
 
